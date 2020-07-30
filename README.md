@@ -1,16 +1,19 @@
-# aliviamente
+## Aliviamente
+### An app to help you to relax.
+#### Aliviamente comes from Portuguese, which means Mind relax.  
 
-A new Flutter project.
+## About
+Aliviamente is an app created with Flutter and Dart, to help peoples with anxiety, stress
+and etc. It's composed of many short games, divided into categories to help relax.
 
-## Getting Started
+## What's pourpose
+Aliviamente is a part of my personal portfolio with Flutter + UX/UI.
+Every screen design was projected by me in Figma and Flutter.
+<b>To see more</b> of my works, follow-me on my social medias:
 
-This project is a starting point for a Flutter application.
+#### Twitter: [@_jimmystarling_](https://twitter.com/_jimmystarling_)
+#### Instagram: [@jimmy.starling](https://www.instagram.com/jimmy.starling)
+#### Twitch: [Jimmy Starling Lives](https://www.twitch.tv/jimmystarling)    
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contribute
+Feel free to clone and send some pull requests, to insert some games and more improvements :).
