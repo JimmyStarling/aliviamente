@@ -1,3 +1,4 @@
+![Login Screen](./UI/Start.png)
 ## Aliviamente
 ### An app to help you to relax.
 #### Aliviamente comes from Portuguese, which means Mind relax.  
