@@ -1,7 +1,12 @@
 ![Thumbnail](./design/Thumbnail.jpg)
 ## Fastmood
-### An app to help you to relax.
-#### Fastmood comes from Portuguese, which means Mind relax.  
+#### Crie jogue e compartilhe
+Desenvolvido em Flutter © O Fastmood tem como foco ajudar a relaxar criando
+permitindo **facilitadores de alivio do estresse**, **controle da ansiedade** e 
+muitos outros! 
+
+Com a Fastmood você consegue criar seus mini jogos e compartilhar
+dentro da rede.
 
 ## About
 Fastmood is an app created with Flutter and Dart, to help peoples with anxiety, stress
