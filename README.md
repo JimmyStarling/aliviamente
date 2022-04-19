@@ -1,3 +1,4 @@
+![Thumbnail](./design/Thumbnail.jpg)
 ## Fastmood
 ### An app to help you to relax.
 #### Fastmood comes from Portuguese, which means Mind relax.  
