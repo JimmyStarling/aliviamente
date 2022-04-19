@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import './screens/aliviamente.dart';
+import './app/fastmood.dart';
 
-void main() => runApp(AliviamenteApp());
+void main() => runApp(App());
