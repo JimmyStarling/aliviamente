@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import '../components/navbar.dart';
+import '../screens/login.dart';
 
 class SplashScreen extends StatefulWidget {
   @override
@@ -14,7 +15,7 @@ class _SplashScreenState extends State<SplashScreen> {
     SystemChrome.setEnabledSystemUIOverlays([]);
     Future.delayed(Duration(seconds: 4)).then((_) {
       Navigator.pushReplacement(
-          context, MaterialPageRoute(builder: (context) => Navbar()));
+          context, MaterialPageRoute(builder: (context) => LoginScreen(title: 'Entre para continuar')));
     });
   }
 
