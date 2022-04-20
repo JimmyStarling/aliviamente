@@ -4,9 +4,9 @@ import 'package:flutter/material.dart';
 import '../models/constants.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 
-import './homescreen.dart';
-import './explore.dart';
-import './profile.dart';
+import '../screens/home.dart';
+import '../screens/explore.dart';
+import '../screens/profile.dart';
 
 class Navbar extends StatefulWidget {
 	@override
